@@ -21,15 +21,15 @@
   <tr><th>/</th> <th>월</th><th>화</th><th>수</th><th>목</th><th>금</th></tr>
 </thead>
 <tbody>
-  <tr><td>1교시</td> <td>-</td> <td>-</td> <td class="subject2">자료구조및실습</td> <td>-</td><td>-</td></tr>
-  <tr><td>2교시</td> <td>-</td> <td>-</td> <td class="subject2"></td><td>-</td><td>-</td></tr>
-  <tr><td>3교시</td> <td class="subject1">디지털논리회로</td> <td class="subject2">자료구조및실습</td> <td>-</td> <td>-</td><td>-</td></tr>
-  <tr><td>4교시</td> <td class="subject1"></td> <td class="subject2"></td> <td class="subject4">철학과의심</td> <td>-</td><td>-</td></tr>
-  <tr><td>5교시</td> <td>-</td> <td class="subject1">디지털논리회로</td> <td class="subject4"></td> <td class="subject5">인터넷프로그래밍</td><td>-</td></tr>
-  <tr><td>6교시</td> <td>-</td> <td class="subject3">C++프로그래밍</td> <td class="subject4"></td> <td class="subject5"></td><td>-</td></tr>
-  <tr><td>7교시</td> <td>-</td> <td class="subject3"></td> <td>-</td> <td class="subject6">캠퍼스멘토링</td><td>-</td></tr>
-  <tr><td>8교시</td> <td>-</td> <td class="subject3"></td> <td class="subject5">인터넷프로그래밍</td> <td class="subject6"></td><td>-</td></tr>
-  <tr><td>9교시</td> <td>-</td> <td class="subject3"></td> <td class="subject5"></td> <td>-</td><td>-</td></tr>
+  <tr><td>1교시</td> <th>-</th> <th>-</th> <td class="subject2">자료구조및실습</td> <th>-</th><th>-</th></tr>
+  <tr><td>2교시</td> <th>-</th> <th>-</th> <td class="subject2"></td><th>-</th><th>-</th></tr>
+  <tr><td>3교시</td> <td class="subject1">디지털논리회로</td> <td class="subject2">자료구조및실습</td> <th>-</th> <th>-</th><th>-</th></tr>
+  <tr><td>4교시</td> <td class="subject1"></td> <td class="subject2"></td> <td class="subject4">철학과의심</td> <th>-</th><th>-</th></tr>
+  <tr><td>5교시</td> <th>-</th> <td class="subject1">디지털논리회로</td> <td class="subject4"></td> <td class="subject5">인터넷프로그래밍</td><th>-</th></tr>
+  <tr><td>6교시</td> <th>-</th> <td class="subject3">C++프로그래밍</td> <td class="subject4"></td> <td class="subject5"></td><th>-</th></tr>
+  <tr><td>7교시</td> <th>-</th> <td class="subject3"></td> <th>-</th> <td class="subject6">캠퍼스멘토링</td><th>-</th></tr>
+  <tr><td>8교시</td> <th>-</th> <td class="subject3"></td> <td class="subject5">인터넷프로그래밍</td> <td class="subject6"></td><th>-</th></tr>
+  <tr><td>9교시</td> <th>-</th> <td class="subject3"></td> <td class="subject5"></td> <th>-</th><th>-</th></tr>
 </tbody>
 </table>
 </body></html>
