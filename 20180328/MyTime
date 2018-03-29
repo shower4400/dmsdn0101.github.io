@@ -10,7 +10,7 @@
   .subject2 {background-color:yellow;}
   .subject3 {background-color:lightgreen;}
   .subject4 {background-color:lightblue;}
-  .subject5 {background-color:blue;}
+  .subject5 {background-color:lightred;}
   .subject6 {background-color:orange;}
 </style> <!--  border-collapse: collaspe 단선으로, 반대는 separate -->
 <title>My 시간표</title></head>
