@@ -8,7 +8,7 @@
 }
   .subject1 {background-color:red;}
   .subject2 {background-color:yellow;}
-  .subject3 {background-color:green;}
+  .subject3 {background-color:lightgreen;}
   .subject4 {background-color:lightblue;}
   .subject5 {background-color:blue;}
   .subject6 {background-color:orange;}
