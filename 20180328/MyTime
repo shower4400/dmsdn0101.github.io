@@ -1,0 +1,35 @@
+<!doctypehtml>  <!-- time.html -->
+<html lang="ko">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport"content="width=device-width, initial-scale=1"/>
+  <style> table, thead, tbody, tfoot, tr, th, td {
+    border: 1px solid black;  border-collapse: collapse;
+}
+  .subject1 {background-color:red;}
+  .subject2 {background-color:yellow;}
+  .subject3 {background-color:green;}
+  .subject4 {background-color:lightblue;}
+  .subject5 {background-color:blue;}
+  .subject6 {background-color:orange;}
+</style> <!--  border-collapse: collaspe 단선으로, 반대는 separate -->
+<title>My 시간표</title></head>
+<body>
+<table>
+<caption>My 시간표</caption>
+<thead>
+  <tr><th>/</th> <th>월</th><th>화</th><th>수</th><th>목</th><th>금</th></tr>
+</thead>
+<tbody>
+  <tr><td>1교시</td> <td>-</td> <td>-</td> <td class="subject2">자료구조및실습</td> <td>-</td><td>-</td></tr>
+  <tr><td>2교시</td> <td>-</td> <td>-</td> <td class="subject2"></td><td>-</td><td>-</td></tr>
+  <tr><td>3교시</td> <td class="subject1">디지털논리회로</td> <td class="subject2">자료구조및실습</td> <td>-</td> <td>-</td><td>-</td></tr>
+  <tr><td>4교시</td> <td class="subject1"></td> <td class="subject2"></td> <td class="subject4">철학과의심</td> <td>-</td><td>-</td></tr>
+  <tr><td>5교시</td> <td>-</td> <td class="subject1">디지털논리회로</td> <td class="subject4"></td> <td class="subject5">인터넷프로그래밍</td><td>-</td></tr>
+  <tr><td>6교시</td> <td>-</td> <td class="subject3">C++프로그래밍</td> <td class="subject4"></td> <td class="subject5"></td><td>-</td></tr>
+  <tr><td>7교시</td> <td>-</td> <td class="subject3"></td> <td>-</td> <td class="subject6">캠퍼스멘토링</td><td>-</td></tr>
+  <tr><td>8교시</td> <td>-</td> <td class="subject3"></td> <td class="subject5">인터넷프로그래밍</td> <td class="subject6"></td><td>-</td></tr>
+  <tr><td>9교시</td> <td>-</td> <td class="subject3"></td> <td class="subject5"></td> <td>-</td><td>-</td></tr>
+</tbody>
+</table>
+</body></html>
